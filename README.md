@@ -2,7 +2,7 @@
 - 👀 I’m a hiker, singer, poet and aspiring Software Engineer
 - 🌱 I’m currently in university learning Computer Science
 - 📫 How to reach me ...
-- email: raphaelkathambana@petalmail.com
+- email: raphireri@duck.com
 
 <!---
 raphaelkathambana/raphaelkathambana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
